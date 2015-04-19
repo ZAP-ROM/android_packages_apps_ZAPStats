@@ -15,22 +15,22 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Статистика Liquid</string>
-  <string name="main_title">Анонімне використання даних LiquidSmooth</string>
+  <string name="app_name">Статистика ZAP</string>
+  <string name="main_title">Анонімне використання даних ZAP</string>
   <string name="notification_ticker">Статистику увімкнув</string>
-  <string name="notification_title">Статистика Liquid</string>
+  <string name="notification_title">Статистика ZAP</string>
   <string name="notification_desc">Увімкнути/вимкнути анонімну статистику</string>
   <string name="main_link">&lt;a href=\"http://www.cyanogenmod.org/blog/cmstats-what-it-is-and-why-you-should-opt-in\"&gt;Детальніше&lt;/a&gt;</string>
-  <string name="anonymous_statistics_title">Статистика Liquid</string>
-  <string name="anonymous_statistics_summary">Допоможіть покращити LiquidSmooth увімкнув звіти анонімної статистики</string>
+  <string name="anonymous_statistics_title">Статистика ZAP</string>
+  <string name="anonymous_statistics_summary">Допоможіть покращити ZAP увімкнув звіти анонімної статистики</string>
   <string name="anonymous_statistics_warning_title">Про</string>
-  <string name="anonymous_statistics_warning">Підписка на Статистику Liquid дозволить команді LiquidSmooth отримувати не персональну інформацію для відстеження унікальних установок на пристрої. Інформація у звітах постачається унікальним ідентифікатором, що дозволить зберегти недоторканність приватного життя і особистих даних. Звіти відсилаються кожні 7 днів.\n\nДля отримання прикладу відсилається інформації натисніть на Попередній перегляд.</string>
+  <string name="anonymous_statistics_warning">Підписка на Статистику ZAP дозволить команді ZAP отримувати не персональну інформацію для відстеження унікальних установок на пристрої. Інформація у звітах постачається унікальним ідентифікатором, що дозволить зберегти недоторканність приватного життя і особистих даних. Звіти відсилаються кожні 7 днів.\n\nДля отримання прикладу відсилається інформації натисніть на Попередній перегляд.</string>
   <string name="pref_settings">Налаштування</string>
   <string name="enable_reporting_title">Увімкнути звітування</string>
   <string name="disable_reporting_persistent">Постійна відмова від участі</string>
   <string name="preview_data_title">Попередній перегляд даних</string>
   <string name="preview_data_summary">%s</string>
-  <string name="view_stats_title">Перейти на сторінку Статистики Liquid</string>
+  <string name="view_stats_title">Перейти на сторінку Статистики ZAP</string>
   <string name="anonymous_learn_more">Дізнатися більше</string>
   <string name="pref_stats">Інформація</string>
   <string name="last_report_on">Останній звіт</string>
@@ -53,7 +53,7 @@
   <string name="preview_country_title">Країна</string>
   <string name="preview_carrier_title">Оператор</string>
   <string name="preview_romname_title">ROM ім\'я</string>
-  <string name="preview_romversion_title">Версія LiquidSmooth</string>
+  <string name="preview_romversion_title">Версія ZAP</string>
   <string name="pref_info">Про &amp; підтримка</string>
   <string name="pref_info_about">Про</string>
   <string name="pref_info_changelog">Журнал змін</string>

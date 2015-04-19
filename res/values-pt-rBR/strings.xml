@@ -15,22 +15,22 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Liquid Estatísticas</string>
-  <string name="main_title">Dados de uso anônimos LiquidSmooth</string>
+  <string name="app_name">ZAP Estatísticas</string>
+  <string name="main_title">Dados de uso anônimos ZAP</string>
   <string name="notification_ticker">Estatísticas optaram por</string>
-  <string name="notification_title">Liquid estatísticas</string>
+  <string name="notification_title">ZAP estatísticas</string>
   <string name="notification_desc">Habilitar ou desabilitar estatísticas anónimas</string>
   <string name="main_link">&lt; a href = \"http://www.cyanogenmod.org/blog/cmstats-what-it-is-and-why-you-should-opt-in\" &gt; Saiba mais &lt; /a &gt;</string>
-  <string name="anonymous_statistics_title">Liquid Estatísticas</string>
-  <string name="anonymous_statistics_summary">Ajudar a fazer LiquidSmooth melhor optando para o relatório de estatísticas anônimas</string>
+  <string name="anonymous_statistics_title">ZAP Estatísticas</string>
+  <string name="anonymous_statistics_summary">Ajudar a fazer ZAP melhor optando para o relatório de estatísticas anônimas</string>
   <string name="anonymous_statistics_warning_title">Sobre</string>
-  <string name="anonymous_statistics_warning">Optar por enviar estatísticas anónimas do Liquid Stats permitirá que dados não-pessoais sejam enviados para os desenvolvedores do Liquid Stats para rastrear instalações únicas em dispositivos. As informações enviadas incluem um identificador único,que não compromete sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara um exemplo de dados que são enviados, toque em Pré-visualizar Dados.</string>
+  <string name="anonymous_statistics_warning">Optar por enviar estatísticas anónimas do ZAP Stats permitirá que dados não-pessoais sejam enviados para os desenvolvedores do ZAP Stats para rastrear instalações únicas em dispositivos. As informações enviadas incluem um identificador único,que não compromete sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara um exemplo de dados que são enviados, toque em Pré-visualizar Dados.</string>
   <string name="pref_settings">Configurações</string>
   <string name="enable_reporting_title">Habilitar relatório</string>
   <string name="disable_reporting_persistent">Persistente opt-out</string>
   <string name="preview_data_title">Pré-visualizar dados</string>
   <string name="preview_data_summary">%s</string>
-  <string name="view_stats_title">Página de exibição de estatísticas da Liquid</string>
+  <string name="view_stats_title">Página de exibição de estatísticas da ZAP</string>
   <string name="anonymous_learn_more">Saiba mais</string>
   <string name="pref_stats">Informações</string>
   <string name="last_report_on">Último relatório</string>
@@ -52,7 +52,7 @@
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operadora</string>
   <string name="preview_romname_title">Nome da ROM</string>
-  <string name="preview_romversion_title">Versão LiquidSmooth</string>
+  <string name="preview_romversion_title">Versão ZAP</string>
   <string name="pref_info">Sobre &amp; suporte</string>
   <string name="pref_info_about">Sobre</string>
   <string name="pref_info_changelog">Log de alterações</string>

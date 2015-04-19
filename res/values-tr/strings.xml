@@ -15,14 +15,14 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Liquid İstatistikleri</string>
-  <string name="main_title">LiquidSmooth anonim kullanım verileri</string>
+  <string name="app_name">ZAP İstatistikleri</string>
+  <string name="main_title">ZAP anonim kullanım verileri</string>
   <string name="notification_ticker">İstatistik seçin</string>
-  <string name="notification_title">Liquid İstatistikleri</string>
+  <string name="notification_title">ZAP İstatistikleri</string>
   <string name="notification_desc">Etkinleştirin veya devre dışı bırakın anonim istatistikleri</string>
   <string name="main_link">&lt; bir href = \"http://www.cyanogenmod.org/blog/cmstats-what-it-is-and-why-you-should-opt-in\" &gt; daha fazla bilgi &lt; /a &gt;</string>
-  <string name="anonymous_statistics_title">Liquid İstatistikleri</string>
-  <string name="anonymous_statistics_summary">LiquidSmootha yardımcı olun rapor gönderin</string>
+  <string name="anonymous_statistics_title">ZAP İstatistikleri</string>
+  <string name="anonymous_statistics_summary">ZAPa yardımcı olun rapor gönderin</string>
   <string name="anonymous_statistics_warning_title">Hakkında</string>
   <string name="anonymous_statistics_warning">AOKP istatistiklerine dahil olmak kişisel olmayan verilerin AOKP geliştirilerine cihazlar arasındaki benzersiz yüklemeleri takip etmeleri için gönderilmesine izin verir. Bu bilgi, kişisel bilgi içermeyen ve gizliliğinizi tehdit etmeyen benzersiz bir tanımlayıcı içerir. Veri, önyükleme sırasında haftada bir kez gönderilir.\n\nGönderilecek verinin örneğini görmek için Veriyi önizle butonunu kullanın.</string>
   <string name="pref_settings">Ayarlar</string>
@@ -30,7 +30,7 @@
   <string name="disable_reporting_persistent">Kalıcı devre dışı bırakma</string>
   <string name="preview_data_title">Veriyi önizle</string>
   <string name="preview_data_summary">%s</string>
-  <string name="view_stats_title">Liquid İstatistik Sayfasını Görüntüle</string>
+  <string name="view_stats_title">ZAP İstatistik Sayfasını Görüntüle</string>
   <string name="anonymous_learn_more">Daha fazla bilgi edinin</string>
   <string name="pref_stats">Bilgi</string>
   <string name="last_report_on">Son rapor</string>
@@ -51,7 +51,7 @@
   <string name="preview_country_title">Ülke</string>
   <string name="preview_carrier_title">Taşıyıcı</string>
   <string name="preview_romname_title">ROM adı</string>
-  <string name="preview_romversion_title">LiquidSmooth sürümü</string>
+  <string name="preview_romversion_title">ZAP sürümü</string>
   <string name="pref_info">Hakkında &amp; destek</string>
   <string name="pref_info_about">Hakkında</string>
   <string name="pref_info_changelog">Değişiklik günlüğü</string>
